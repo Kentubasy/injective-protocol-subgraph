@@ -8,6 +8,7 @@ dataSources:
     source:
       address: "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30"
       abi: InjectiveToken
+      startBlock: 11072329
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
